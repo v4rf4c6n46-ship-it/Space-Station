@@ -1,0 +1,1 @@
+Sci-Fi Action Shooter game. The player has multiple abilities. Designing a space station that is the main hub of the game where the player interacts with each other. The space station has multiple levels, including a cafeteria, dorms, combat arenas, a classroom for developing and learning new abilities, a hangout area, docks for the ships, and more.
